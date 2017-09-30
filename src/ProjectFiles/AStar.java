@@ -18,6 +18,7 @@ public class AStar {
 	public static JTextArea ta;
 
 	public static boolean state;
+
 	public static Node start;
 	public static Node end;
 	public static Node x;
